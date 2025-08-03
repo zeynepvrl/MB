@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://barisutlu-suaritma.com/sitemap.xml
+Sitemap: https://barisguven-suaritma.com/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1
