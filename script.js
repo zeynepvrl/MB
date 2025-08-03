@@ -66,7 +66,7 @@ contactForm.addEventListener('submit', function(e) {
     
     // Simulate API call
     setTimeout(() => {
-        showNotification('Keşif talebiniz başarıyla alındı! En kısa sürede Barış Utlu size dönüş yapacak.', 'success');
+        showNotification('Keşif talebiniz başarıyla alındı! En kısa sürede Barış Güven size dönüş yapacak.', 'success');
         contactForm.reset();
     }, 2000);
 });
