@@ -256,7 +256,7 @@ if (serviceSelect) {
 
 // WhatsApp integration with Barış Utlu's number
 function openWhatsApp() {
-    const phone = '905469530357'; // Barış Utlu's phone number
+    const phone = '905558939443'; // Barış Utlu's phone number
     const message = 'Merhaba Barış Bey, su arıtma sistemi hakkında bilgi almak istiyorum.';
     const url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
     window.open(url, '_blank');
